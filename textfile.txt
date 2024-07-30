@@ -1,0 +1,20 @@
+What is UX design?
+Simply put, user experience design is the process of planning the experience a person has when they interact with a product.
+UX design focuses on the interaction that a human user has with everyday products and services. The goal of UX design is to make using these products and services, both digital or physical, easy, logical, and fun.
+You may have spent your fair share of time searching reviews for a new coffee maker. In essence, you’re not only looking for a new appliance, but a product with features that will deliver you, the user, a great experience.
+For example, an anti-drip spout, auto-shut off, and a reusable basket are all features that meet the user’s needs, make it easy to use, and give the user control and freedom when using. This is similar to the way UX / UI designers think when developing a web application. They want the user experience to be easy and intuitive.
+The term “user experience” has been around since the ‘90s. It was coined by Don Norman, a cognitive scientist at Apple, back before Apple became the household name it is today. He focused heavily on user-centered design, which placed the user at the front of the product design process. While “user-friendly” is a term you probably know well, it wasn’t all that popular at the time.
+But, not only are physical and digital products part of UX, but it encompasses all aspects of the end-users interaction with the company, its services, and its products.
+About the U in UX: determine what is important to the user
+So, let’s start at the beginning: the “U” in UX. Why?
+As Apple founder Steve Jobs aptly put it, “You’ve got to start with the customer experience and work back toward the technology – not the other way around.”
+The user is the person who is going to live, eat, and breathe your products. It’s your job as a UX designer to give them an enjoyable, useful experience.
+But first, you have to know who they are. Designing a user persona (which is done by a UX researcher, whose role is more back-end and data-based) lets us come up with an ideal user and examine their desires, wants, and frustrations with current solutions.
+The bottom line: You have to know who your user is to make something that works well for them.
+UI (User Interface) design is the user-centered approach to designing the aesthetics of a digital product. In essence, they create the look and feel of a website or application’s user interface. An interface is the graphical layout of the application. These interfaces should not only be functional, but they should be easy to use and visually appealing.
+UI designers are focused on visual touchpoints that let users interact with a product. This can include typography, color palettes, buttons, animation, and other imagery. Think about all the things you might do on an app – slide to delete, pull down to refresh, enter text, etc. All of these visual elements or animations that allow you to interact with the app must be designed. There’s a lot of similarities between UI and graphic design, but they are not the same thing.
+This is where the “nitty-gritty” of Matt’s experience with Carvana happens. Can he easily scan the filter options on the site, do they function accurately, etc. Does he have to log in to their system or can he log in with an existing account like Google or Facebook?
+User interface can also refer to other interfaces:
+* Voice-controlled interfaces (i.e. Siri, Alexa, and Google Assistant.)
+* Voice user interfaces (VUI’s) are currently improving the user experience, making it easier and faster for users to get the information they need or complete certain tasks. However, for the purposes of this article, we’re sticking to digital interfaces (screens).
+
